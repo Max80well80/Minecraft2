@@ -1,15 +1,105 @@
-[00:15:10] [Server thread/INFO]: Max80well80 lost connection: Disconnected
-[00:15:10] [Server thread/INFO]: Max80well80 left the game
-[00:16:32] [Server thread/INFO]: Stopping the server
-[00:16:32] [Server thread/INFO]: Stopping server
-[00:16:32] [Server thread/INFO]: Saving players
-[00:16:32] [Server thread/INFO]: Saving worlds
-[00:16:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:16:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:16:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:24:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:24:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:24:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:54] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[20:24:54] [Server thread/INFO]: Loading properties
+[20:24:54] [Server thread/INFO]: Default game type: SURVIVAL
+[20:24:54] [Server thread/INFO]: Generating keypair
+[20:24:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:24:55] [Server thread/INFO]: Using epoll channel type
+[20:24:55] [Server thread/INFO]: Preparing level "world"
+[20:24:55] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:24:56] [Server thread/INFO]: Loaded 6 recipes
+[20:24:57] [Server thread/INFO]: Loaded 811 advancements
+[20:24:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:03] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:25:03] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:25:03] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:25:03] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[20:25:03] [Server thread/INFO]: Preparing spawn area: 8%
+[20:25:03] [Server thread/INFO]: Time elapsed: 5802 ms
+[20:25:03] [Server thread/INFO]: Done (8.145s)! For help, type "help"
+[20:47:55] [User Authenticator #1/INFO]: UUID of player Max80well80 is 50933a6d-2685-4dd2-8500-eb77edd1ec32
+[20:47:56] [Server thread/INFO]: Max80well80[/192.168.1.103:55531] logged in with entity id 326 at (21.20128474505744, 77.0, -55.81826701111669)
+[20:47:56] [Server thread/INFO]: Max80well80 joined the game
+[20:48:21] [Server thread/INFO]: <Max80well80> YYYYY
+[20:48:35] [User Authenticator #2/INFO]: UUID of player Good_NewsEvery1 is 3818d70f-52da-4d2a-b944-15eb37a9a11e
+[20:48:35] [Server thread/INFO]: Good_NewsEvery1[/192.168.1.26:56264] logged in with entity id 439 at (5.699999988079071, 77.0, -63.28544904890458)
+[20:48:35] [Server thread/INFO]: Good_NewsEvery1 joined the game
+[20:49:27] [User Authenticator #3/INFO]: UUID of player cnerns is 3f421d84-c793-4712-b4de-122d4eddd4d1
+[20:49:28] [Server thread/INFO]: cnerns[/192.168.1.46:54134] logged in with entity id 601 at (15.64893497362386, 76.0, -68.69999998807907)
+[20:49:28] [Server thread/INFO]: cnerns joined the game
+[21:18:38] [Server thread/INFO]: Good_NewsEvery1 lost connection: Timed out
+[21:18:38] [Server thread/INFO]: Good_NewsEvery1 left the game
+[21:18:44] [Server thread/INFO]: Max80well80 lost connection: Timed out
+[21:18:44] [Server thread/INFO]: Max80well80 left the game
+[21:18:45] [Server thread/INFO]: cnerns lost connection: Timed out
+[21:18:45] [Server thread/INFO]: cnerns left the game
+[21:19:01] [User Authenticator #4/INFO]: UUID of player Good_NewsEvery1 is 3818d70f-52da-4d2a-b944-15eb37a9a11e
+[21:19:01] [Server thread/INFO]: Good_NewsEvery1[/192.168.1.26:57030] logged in with entity id 8437 at (86.45672558259697, 15.0, 169.30000001192096)
+[21:19:01] [Server thread/INFO]: Good_NewsEvery1 joined the game
+[21:19:25] [User Authenticator #5/INFO]: UUID of player cnerns is 3f421d84-c793-4712-b4de-122d4eddd4d1
+[21:19:25] [Server thread/INFO]: cnerns[/192.168.1.46:54206] logged in with entity id 8504 at (16.834539891750502, 77.0, -60.858146656343486)
+[21:19:25] [Server thread/INFO]: cnerns joined the game
+[21:19:31] [Server thread/INFO]: Good_NewsEvery1 lost connection: Timed out
+[21:19:31] [Server thread/INFO]: Good_NewsEvery1 left the game
+[21:19:37] [User Authenticator #6/INFO]: UUID of player Max80well80 is 50933a6d-2685-4dd2-8500-eb77edd1ec32
+[21:19:38] [Server thread/INFO]: Max80well80[/192.168.1.103:55597] logged in with entity id 8651 at (3.991783462694179, 73.0, -15.402072049078642)
+[21:19:38] [Server thread/INFO]: Max80well80 joined the game
+[21:19:42] [User Authenticator #7/INFO]: UUID of player Good_NewsEvery1 is 3818d70f-52da-4d2a-b944-15eb37a9a11e
+[21:19:42] [Server thread/INFO]: Good_NewsEvery1[/192.168.1.26:57056] logged in with entity id 8681 at (86.45672558259697, 15.0, 169.30000001192096)
+[21:19:42] [Server thread/INFO]: Good_NewsEvery1 joined the game
+[22:11:39] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/23476, l='world', x=-5.46, y=78.00, z=-56.20]
+[22:15:43] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/24943, l='world', x=-6.80, y=78.00, z=-59.20]
+[22:19:53] [Server thread/INFO]: <cnerns> e
+[22:20:05] [Server thread/INFO]: <cnerns> come to sleep
+[22:22:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/27319, l='world', x=-6.80, y=79.00, z=-58.20]
+[22:22:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/27319, l='world', x=-6.80, y=79.00, z=-58.20]
+[22:23:35] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/27473, l='world', x=0.27, y=78.00, z=-56.88]
+[22:23:35] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/27473, l='world', x=0.27, y=78.00, z=-56.88]
+[22:23:35] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/27473, l='world', x=0.27, y=78.00, z=-56.88]
+[22:25:38] [Server thread/INFO]: cnerns lost connection: Disconnected
+[22:25:38] [Server thread/INFO]: cnerns left the game
+[22:31:15] [User Authenticator #8/INFO]: UUID of player OdiferousThe3rd is ae37cbd3-b320-41e9-8949-3d88ad3038d3
+[22:31:15] [Server thread/INFO]: OdiferousThe3rd[/192.168.1.92:61045] logged in with entity id 29038 at (16.355578525359064, 72.0, -20.858354726732532)
+[22:31:15] [Server thread/INFO]: OdiferousThe3rd joined the game
+[22:41:12] [Server thread/INFO]: Good_NewsEvery1 lost connection: Disconnected
+[22:41:12] [Server thread/INFO]: Good_NewsEvery1 left the game
+[22:52:19] [Server thread/WARN]: Fetching packet for removed entity air['Experience Orb'/34785, l='world', x=-77.74, y=12.29, z=98.56]
+[23:00:04] [Server thread/INFO]: Max80well80 has made the advancement [Enchanter]
+[23:03:28] [Server thread/INFO]: OdiferousThe3rd lost connection: Disconnected
+[23:03:28] [Server thread/INFO]: OdiferousThe3rd left the game
+[23:12:42] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/38749, l='world', x=-5.80, y=77.00, z=-58.99]
+[23:19:04] [Server thread/INFO]: Max80well80 lost connection: Timed out
+[23:19:04] [Server thread/INFO]: Max80well80 left the game
+[23:20:03] [Server thread/INFO]: Unknown command
+[23:20:03] [Server thread/INFO]:  <--[HERE]
+[23:20:11] [User Authenticator #9/INFO]: UUID of player Max80well80 is 50933a6d-2685-4dd2-8500-eb77edd1ec32
+[23:20:12] [Server thread/INFO]: Max80well80[/192.168.1.103:55908] logged in with entity id 39665 at (18.852270781207487, 78.5, -62.91002504403594)
+[23:20:12] [Server thread/INFO]: Max80well80 joined the game
+[23:26:37] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/40552, l='world', x=-2.94, y=87.00, z=-109.46]
+[23:38:39] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/42957, l='world', x=1.09, y=77.00, z=-57.82]
+[23:42:21] [Server thread/INFO]: Max80well80 lost connection: Disconnected
+[23:42:21] [Server thread/INFO]: Max80well80 left the game
+[23:42:29] [Server thread/INFO]: Stopping the server
+[23:42:29] [Server thread/INFO]: Stopping server
+[23:42:29] [Server thread/INFO]: Saving players
+[23:42:29] [Server thread/INFO]: Saving worlds
+[23:42:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:42:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:42:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:42:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:42:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:42:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:42:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:42:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:42:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

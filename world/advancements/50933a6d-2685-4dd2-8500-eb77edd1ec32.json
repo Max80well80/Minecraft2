@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2019-07-17 22:38:48 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wooden_fences": "2019-07-03 20:53:39 -0700"
@@ -619,6 +625,7 @@
       "minecraft:spider": "2019-07-03 20:07:30 -0700",
       "minecraft:creeper": "2019-07-03 21:27:05 -0700",
       "minecraft:phantom": "2019-07-02 23:32:19 -0700",
+      "minecraft:witch": "2019-07-17 22:21:38 -0700",
       "minecraft:cave_spider": "2019-07-02 22:38:13 -0700",
       "minecraft:enderman": "2019-07-03 19:53:45 -0700",
       "minecraft:zombie": "2019-07-02 21:07:01 -0700",
@@ -629,6 +636,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-07-02 21:59:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-07-17 23:00:04 -0700"
     },
     "done": true
   },
@@ -971,6 +984,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2019-07-06 20:41:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-07-17 22:38:48 -0700"
     },
     "done": true
   },
@@ -1481,6 +1500,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-07-02 21:53:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-07-17 22:38:48 -0700"
     },
     "done": true
   },

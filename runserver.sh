@@ -1,3 +1,3 @@
 #!/bin/sh
 
-java -Xms3000M -Xmx3000M -jar server.jar
+java -Xms3000M -Xmx8000M -jar server.jar
