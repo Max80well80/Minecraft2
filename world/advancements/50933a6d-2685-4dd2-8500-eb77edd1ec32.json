@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2019-07-18 13:05:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2019-07-06 11:09:46 -0700"
@@ -290,6 +296,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2019-07-02 22:29:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-07-18 10:51:32 -0700"
     },
     "done": true
   },
@@ -622,6 +634,7 @@
       "minecraft:pillager": "2019-07-06 10:56:02 -0700",
       "minecraft:skeleton": "2019-07-02 21:08:27 -0700",
       "minecraft:zombie_pigman": "2019-07-08 20:52:25 -0700",
+      "minecraft:magma_cube": "2019-07-18 12:17:11 -0700",
       "minecraft:spider": "2019-07-03 20:07:30 -0700",
       "minecraft:creeper": "2019-07-03 21:27:05 -0700",
       "minecraft:phantom": "2019-07-02 23:32:19 -0700",
@@ -837,6 +850,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-07-18 12:56:14 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2019-07-02 21:13:35 -0700"
@@ -870,6 +889,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-07-02 23:18:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-07-18 10:28:32 -0700"
     },
     "done": true
   },
@@ -1215,14 +1240,18 @@
       "minecraft:mountains": "2019-07-02 21:14:01 -0700",
       "minecraft:forest": "2019-07-02 21:07:23 -0700",
       "minecraft:taiga": "2019-07-06 21:02:26 -0700",
+      "minecraft:snowy_tundra": "2019-07-18 13:09:58 -0700",
       "minecraft:desert": "2019-07-06 20:49:19 -0700",
+      "minecraft:frozen_river": "2019-07-18 13:10:04 -0700",
       "minecraft:birch_forest": "2019-07-06 21:01:41 -0700",
       "minecraft:badlands": "2019-07-06 20:46:29 -0700",
       "minecraft:beach": "2019-07-06 20:46:19 -0700",
+      "minecraft:dark_forest": "2019-07-18 10:51:09 -0700",
       "minecraft:river": "2019-07-03 21:20:21 -0700",
       "minecraft:birch_forest_hills": "2019-07-06 21:01:24 -0700",
       "minecraft:wooded_mountains": "2019-07-06 10:43:23 -0700",
       "minecraft:wooded_hills": "2019-07-02 21:11:15 -0700",
+      "minecraft:swamp": "2019-07-18 13:05:20 -0700",
       "minecraft:plains": "2019-07-02 21:00:07 -0700"
     },
     "done": false
@@ -2092,6 +2121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-07-18 10:51:32 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-05 23:28:04 -0700"
@@ -2107,6 +2142,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2019-07-03 21:04:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-07-18 10:28:32 -0700"
     },
     "done": true
   },
@@ -2293,6 +2334,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-07-02 21:13:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2019-07-18 13:30:53 -0700"
     },
     "done": true
   },
@@ -2587,6 +2634,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-07-02 21:07:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-07-18 10:28:32 -0700"
     },
     "done": true
   },
