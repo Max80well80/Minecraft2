@@ -637,6 +637,7 @@
       "minecraft:magma_cube": "2019-07-18 12:17:11 -0700",
       "minecraft:spider": "2019-07-03 20:07:30 -0700",
       "minecraft:creeper": "2019-07-03 21:27:05 -0700",
+      "minecraft:slime": "2019-07-18 21:27:15 -0700",
       "minecraft:phantom": "2019-07-02 23:32:19 -0700",
       "minecraft:witch": "2019-07-17 22:21:38 -0700",
       "minecraft:cave_spider": "2019-07-02 22:38:13 -0700",
@@ -1207,6 +1208,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2019-07-02 21:11:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-07-18 21:27:35 -0700"
     },
     "done": true
   },
@@ -2610,6 +2617,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-07-02 23:18:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-07-18 21:27:35 -0700"
     },
     "done": true
   },

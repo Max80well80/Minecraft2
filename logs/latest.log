@@ -1,225 +1,71 @@
-[10:20:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:20:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:20:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:20:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:20:59] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[10:20:59] [Server thread/INFO]: Loading properties
-[10:21:00] [Server thread/INFO]: Default game type: SURVIVAL
-[10:21:00] [Server thread/INFO]: Generating keypair
-[10:21:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:21:00] [Server thread/INFO]: Using epoll channel type
-[10:21:00] [Server thread/INFO]: Preparing level "world"
-[10:21:00] [Server thread/INFO]: Reloading ResourceManager: Default
-[10:21:01] [Server thread/INFO]: Loaded 6 recipes
-[10:21:02] [Server thread/INFO]: Loaded 811 advancements
-[10:21:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:21:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:21:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:21:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:21:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:21:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:21:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:21:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:21:08] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[10:21:08] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[10:21:08] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[10:21:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:21:09] [Server thread/INFO]: Preparing spawn area: 0%
-[10:21:09] [Server thread/INFO]: Time elapsed: 5912 ms
-[10:21:09] [Server thread/INFO]: Done (8.636s)! For help, type "help"
-[10:21:37] [User Authenticator #1/INFO]: UUID of player Max80well80 is 50933a6d-2685-4dd2-8500-eb77edd1ec32
-[10:21:38] [Server thread/INFO]: Max80well80[/192.168.1.103:64567] logged in with entity id 341 at (15.299999974668026, 76.0000002, -68.70000002533197)
-[10:21:38] [Server thread/INFO]: Max80well80 joined the game
-[10:41:11] [Server thread/WARN]: Max80well80 moved too quickly! -8.497521046164593,0.0,5.314237963863775
-[10:41:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
-[10:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
-[10:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
-[11:21:44] [Server thread/INFO]: Max80well80 lost connection: Disconnected
-[11:21:44] [Server thread/INFO]: Max80well80 left the game
-[11:41:14] [User Authenticator #2/INFO]: UUID of player Max80well80 is 50933a6d-2685-4dd2-8500-eb77edd1ec32
-[11:41:14] [Server thread/INFO]: Max80well80[/192.168.1.103:64749] logged in with entity id 14304 at (-75.3000000119209, 11.0, 118.51937517444998)
-[11:41:14] [Server thread/INFO]: Max80well80 joined the game
-[12:49:08] [Server thread/INFO]: <Max80well80> e
-[12:56:14] [Server thread/INFO]: Max80well80 has made the advancement [Best Friends Forever]
-[12:57:18] [Server thread/WARN]: Horse moved wrongly!
-[12:57:53] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/25149, l='world', x=0.18, y=77.00, z=-57.79]
-[13:00:12] [Server thread/INFO]: Max80well80 lost connection: Disconnected
-[13:00:12] [Server thread/INFO]: Max80well80 left the game
-[13:00:20] [User Authenticator #3/INFO]: UUID of player Max80well80 is 50933a6d-2685-4dd2-8500-eb77edd1ec32
-[13:00:20] [Server thread/INFO]: Max80well80[/192.168.1.103:64969] logged in with entity id 25458 at (12.35340147542638, 77.0, -41.82130156114114)
-[13:00:20] [Server thread/INFO]: Max80well80 joined the game
-[13:06:20] [Server thread/WARN]: Max80well80 moved too quickly! -4.0891165081184795,0.0,-9.34069305270009
-[13:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3787ms or 75 ticks behind
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:19] [Server thread/WARN]: Horse moved wrongly!
-[13:07:20] [Server thread/WARN]: Horse moved wrongly!
-[13:07:20] [Server thread/WARN]: Horse moved wrongly!
-[13:07:20] [Server thread/WARN]: Horse moved wrongly!
-[13:07:20] [Server thread/WARN]: Horse moved wrongly!
-[13:08:32] [Server thread/WARN]: Horse moved wrongly!
-[13:09:48] [Server thread/WARN]: Horse moved wrongly!
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.221800907738157,-4.786481508583307,-7.546982528187527
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.221800907738157,-5.261507790682643,-7.802479313879758
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.257911896114706,-4.261507790682643,-8.300090241415774
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.313345154396188,-4.261507790682643,-8.836110814937797
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.379117374059206,-4.261507790682643,-9.39268362422115
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.44972335090938,-4.3383397921780045,-9.96034610579693
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.490692312696069,-4.48896124934565,-10.2911200073587
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.529919488918495,-4.710450101120244,-10.61318732939526
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.567096973417506,-5.0,-10.927534858221406
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.601808787014988,-5.354915729791742,-11.235041938294557
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.633607468858031,-5.7726088048131885,-11.536480225936657
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.6620255491571925,-6.25059324336668,-11.832519347045036
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.686786953024352,-6.261507790682643,-12.123737338178785
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.699503454040837,-6.261507790682643,-12.655449491326067
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.695507925283778,-6.261507790682643,-13.211908843949232
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.684708050372478,-6.3383397921780045,-13.78160992960602
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.67784926511365,-6.48896124934565,-14.113640700723408
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.670652612723416,-6.710450101120244,-14.436940829736159
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.663084257061087,-7.0,-14.752452085947311
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.655041047108625,-7.354915729791742,-15.061010780071115
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.646360679324744,-7.7726088048131885,-15.363358169067055
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.636898504583996,-8.25059324336668,-15.660153625279463
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.626455363517266,-8.261507790682643,-15.951978399302106
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.595689491654753,-8.261507790682643,-16.483546094322833
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.557774608635668,-8.261507790682643,-17.039295723658938
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.516034432282595,-8.261507790682643,-17.60798462391142
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.472247417734593,-8.261507790682643,-18.183597070050155
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.427365180878041,-8.338339792178004,-18.762914167551912
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.401204322894728,-8.48896124934565,-19.10002703222085
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.375728801176251,-8.710450101120244,-19.427796129729472
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.338670432546451,-9.0,-19.743884352697478
-[13:11:23] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -5.291282480743462,-9.261507790682643,-20.0495555714499
-[13:11:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:47] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:48] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:15:49] [Server thread/WARN]: Horse moved wrongly!
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -9.173818257394032,-2.62788969105776,-3.9936846958989918
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -9.491590810366006,-2.7785111482254052,-4.106560974940521
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -9.800212139136192,-3.0,-4.217426840458415
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.10077764814514,-3.2895498988797556,-4.326235589395651
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.394482498353682,-3.5510576895623984,-4.432341862052226
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.656408491318416,-3.5510576895623984,-4.526967438734459
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.796559867912947,-3.5510576895623984,-4.577599698186646
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.871552075211639,-3.5510576895623984,-4.6046920107211236
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.911678910153796,-3.5510576895623984,-4.619188566995945
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.93314997948869,-3.5510576895623984,-4.626945385228396
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.944638720602825,-3.5510576895623984,-4.631095904010294
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -11.22212491106552,-3.5510576895623984,-4.6522884496032475
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -11.64194103325758,-3.5510576895623984,-4.684820703809123
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -12.137915064165554,-3.62788969105776,-4.723420610004496
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -12.430434759592345,-3.7785111482254052,-4.746193904826669
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -12.718437711635488,-4.0,-4.768622384350579
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -13.002412631812831,-4.289549898879756,-4.790743357582528
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -13.282795353068877,-4.644465628671497,-4.812590096695544
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -13.531781043783212,-5.062158703692944,-4.845639959269647
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -13.752766861853388,-5.540143142246436,-4.888680767634241
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -13.948782392780004,-5.551057689562398,-4.940631501711664
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.1235890482983,-5.551057689562398,-4.986961167697132
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.21712460439744,-5.551057689562398,-5.01175124825204
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.267173615568254,-5.551057689562398,-5.025015926096103
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.293953843576219,-5.551057689562398,-5.032113590741346
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.308283409643082,-5.551057689562398,-5.035911409580876
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.315950874744658,-5.551057689562398,-5.035911409580876
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.320053582447827,-5.551057689562398,-5.035911409580876
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.320053582447827,-5.551057689562398,-5.035911409580876
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.320053582447827,-5.551057689562398,-5.035911409580876
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.320053582447827,-5.551057689562398,-5.035911409580876
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.320053582447827,-5.551057689562398,-5.035911409580876
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.320053582447827,-5.551057689562398,-5.035911409580876
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.320053582447827,-5.551057689562398,-5.035911409580876
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.304496797981983,-5.551057689562398,-5.171101843054544
-[13:16:26] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -14.27814304100707,-5.551057689562398,-5.378322455806824
-[13:16:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2785ms or 55 ticks behind
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -9.918913382271342,1.0,0.7932846438908996
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.503918493554863,0.9231679985046384,0.803519871145852
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -10.84411515989109,0.7725465413369932,0.8074422103155712
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -11.174439237451963,0.5510576895623984,0.8070473511635896
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -11.495332658458551,0.26150779068264285,0.8000830449876162
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -11.80730455261164,0.0,0.7852037480836884
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -12.342592468647865,0.0,0.6825578194957984
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -12.886085732841536,0.0,0.5382574584209578
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -13.433969515237266,0.0,0.37166864102215413
-[13:21:27] [Server thread/WARN]: Horse (vehicle of Max80well80) moved too quickly! -13.984202576385428,0.0,0.19315371502818834
-[13:22:33] [Server thread/WARN]: Horse moved wrongly!
-[13:34:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/39392, l='world', x=-5.22, y=77.00, z=-59.91]
-[13:36:15] [Server thread/INFO]: Max80well80 lost connection: Disconnected
-[13:36:15] [Server thread/INFO]: Max80well80 left the game
-[13:36:21] [Server thread/INFO]: Stopping the server
-[13:36:22] [Server thread/INFO]: Stopping server
-[13:36:22] [Server thread/INFO]: Saving players
-[13:36:22] [Server thread/INFO]: Saving worlds
-[13:36:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[13:36:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:36:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[13:36:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:36:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[13:36:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:36:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:36:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:36:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:19:30] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[21:19:30] [Server thread/INFO]: Loading properties
+[21:19:30] [Server thread/INFO]: Default game type: SURVIVAL
+[21:19:30] [Server thread/INFO]: Generating keypair
+[21:19:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:19:31] [Server thread/INFO]: Using epoll channel type
+[21:19:31] [Server thread/INFO]: Preparing level "world"
+[21:19:32] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:19:33] [Server thread/INFO]: Loaded 6 recipes
+[21:19:33] [Server thread/INFO]: Loaded 811 advancements
+[21:19:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:39] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:40] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:19:40] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:19:40] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:19:40] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:19:41] [Server thread/INFO]: Preparing spawn area: 0%
+[21:19:41] [Server thread/INFO]: Time elapsed: 6961 ms
+[21:19:41] [Server thread/INFO]: Done (9.799s)! For help, type "help"
+[21:20:45] [User Authenticator #1/INFO]: UUID of player Max80well80 is 50933a6d-2685-4dd2-8500-eb77edd1ec32
+[21:20:45] [Server thread/INFO]: Max80well80[/192.168.1.103:49659] logged in with entity id 379 at (52.549387030148125, 24.0, 37.69999998807907)
+[21:20:45] [Server thread/INFO]: Max80well80 joined the game
+[21:21:08] [User Authenticator #2/INFO]: UUID of player OdiferousThe3rd is ae37cbd3-b320-41e9-8949-3d88ad3038d3
+[21:21:08] [Server thread/INFO]: OdiferousThe3rd[/192.168.1.92:63077] logged in with entity id 476 at (-18.728865630043842, 105.0, -63.40526613563233)
+[21:21:08] [Server thread/INFO]: OdiferousThe3rd joined the game
+[21:42:38] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/5180, l='world', x=-3.69, y=78.00, z=-56.83]
+[21:42:38] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/5180, l='world', x=-3.69, y=78.00, z=-56.83]
+[21:50:34] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6804, l='world', x=-4.19, y=78.00, z=-56.20]
+[21:50:34] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6804, l='world', x=-4.19, y=78.00, z=-56.20]
+[21:51:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6988, l='world', x=-4.92, y=78.00, z=-57.01]
+[21:51:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6988, l='world', x=-4.92, y=78.00, z=-57.01]
+[22:07:28] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/9913, l='world', x=-3.93, y=78.00, z=-56.20]
+[22:07:28] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/9913, l='world', x=-3.93, y=78.00, z=-56.20]
+[22:09:10] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/10298, l='world', x=1.17, y=77.00, z=-57.70]
+[22:09:10] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/10298, l='world', x=1.17, y=77.00, z=-57.70]
+[22:23:19] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/13025, l='world', x=-6.60, y=78.00, z=-59.26]
+[22:23:19] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/13025, l='world', x=-6.60, y=78.00, z=-59.26]
+[22:33:15] [Server thread/INFO]: OdiferousThe3rd has made the advancement [Enchanter]
+[22:37:19] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/16030, l='world', x=0.23, y=77.00, z=-58.24]
+[22:37:19] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/16030, l='world', x=0.23, y=77.00, z=-58.24]
+[22:40:36] [Server thread/INFO]: <Max80well80> poop
+[22:40:56] [Server thread/INFO]: OdiferousThe3rd lost connection: Disconnected
+[22:40:56] [Server thread/INFO]: OdiferousThe3rd left the game
+[22:43:58] [Server thread/INFO]: Max80well80 lost connection: Disconnected
+[22:43:58] [Server thread/INFO]: Max80well80 left the game
+[22:44:08] [Server thread/INFO]: Stopping the server
+[22:44:08] [Server thread/INFO]: Stopping server
+[22:44:08] [Server thread/INFO]: Saving players
+[22:44:08] [Server thread/INFO]: Saving worlds
+[22:44:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:44:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:44:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:44:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:44:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
