@@ -1,71 +1,52 @@
-[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:19:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:19:30] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[21:19:30] [Server thread/INFO]: Loading properties
-[21:19:30] [Server thread/INFO]: Default game type: SURVIVAL
-[21:19:30] [Server thread/INFO]: Generating keypair
-[21:19:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:19:31] [Server thread/INFO]: Using epoll channel type
-[21:19:31] [Server thread/INFO]: Preparing level "world"
-[21:19:32] [Server thread/INFO]: Reloading ResourceManager: Default
-[21:19:33] [Server thread/INFO]: Loaded 6 recipes
-[21:19:33] [Server thread/INFO]: Loaded 811 advancements
-[21:19:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:38] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:39] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:40] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[21:19:40] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:19:40] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[21:19:40] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[21:19:41] [Server thread/INFO]: Preparing spawn area: 0%
-[21:19:41] [Server thread/INFO]: Time elapsed: 6961 ms
-[21:19:41] [Server thread/INFO]: Done (9.799s)! For help, type "help"
-[21:20:45] [User Authenticator #1/INFO]: UUID of player Max80well80 is 50933a6d-2685-4dd2-8500-eb77edd1ec32
-[21:20:45] [Server thread/INFO]: Max80well80[/192.168.1.103:49659] logged in with entity id 379 at (52.549387030148125, 24.0, 37.69999998807907)
-[21:20:45] [Server thread/INFO]: Max80well80 joined the game
-[21:21:08] [User Authenticator #2/INFO]: UUID of player OdiferousThe3rd is ae37cbd3-b320-41e9-8949-3d88ad3038d3
-[21:21:08] [Server thread/INFO]: OdiferousThe3rd[/192.168.1.92:63077] logged in with entity id 476 at (-18.728865630043842, 105.0, -63.40526613563233)
-[21:21:08] [Server thread/INFO]: OdiferousThe3rd joined the game
-[21:42:38] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/5180, l='world', x=-3.69, y=78.00, z=-56.83]
-[21:42:38] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/5180, l='world', x=-3.69, y=78.00, z=-56.83]
-[21:50:34] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6804, l='world', x=-4.19, y=78.00, z=-56.20]
-[21:50:34] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6804, l='world', x=-4.19, y=78.00, z=-56.20]
-[21:51:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6988, l='world', x=-4.92, y=78.00, z=-57.01]
-[21:51:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6988, l='world', x=-4.92, y=78.00, z=-57.01]
-[22:07:28] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/9913, l='world', x=-3.93, y=78.00, z=-56.20]
-[22:07:28] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/9913, l='world', x=-3.93, y=78.00, z=-56.20]
-[22:09:10] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/10298, l='world', x=1.17, y=77.00, z=-57.70]
-[22:09:10] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/10298, l='world', x=1.17, y=77.00, z=-57.70]
-[22:23:19] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/13025, l='world', x=-6.60, y=78.00, z=-59.26]
-[22:23:19] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/13025, l='world', x=-6.60, y=78.00, z=-59.26]
-[22:33:15] [Server thread/INFO]: OdiferousThe3rd has made the advancement [Enchanter]
-[22:37:19] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/16030, l='world', x=0.23, y=77.00, z=-58.24]
-[22:37:19] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/16030, l='world', x=0.23, y=77.00, z=-58.24]
-[22:40:36] [Server thread/INFO]: <Max80well80> poop
-[22:40:56] [Server thread/INFO]: OdiferousThe3rd lost connection: Disconnected
-[22:40:56] [Server thread/INFO]: OdiferousThe3rd left the game
-[22:43:58] [Server thread/INFO]: Max80well80 lost connection: Disconnected
-[22:43:58] [Server thread/INFO]: Max80well80 left the game
-[22:44:08] [Server thread/INFO]: Stopping the server
-[22:44:08] [Server thread/INFO]: Stopping server
-[22:44:08] [Server thread/INFO]: Saving players
-[22:44:08] [Server thread/INFO]: Saving worlds
-[22:44:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:44:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:44:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:44:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:44:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:38:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:38:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:38:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:38:27] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[22:38:27] [Server thread/INFO]: Loading properties
+[22:38:27] [Server thread/INFO]: Default game type: SURVIVAL
+[22:38:27] [Server thread/INFO]: Generating keypair
+[22:38:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:38:28] [Server thread/INFO]: Using epoll channel type
+[22:38:28] [Server thread/INFO]: Preparing level "world"
+[22:38:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:38:29] [Server thread/INFO]: Loaded 6 recipes
+[22:38:31] [Server thread/INFO]: Loaded 811 advancements
+[22:38:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:38:35] [Server thread/INFO]: Preparing spawn area: 0%
+[22:38:35] [Server thread/INFO]: Preparing spawn area: 0%
+[22:38:35] [Server thread/INFO]: Preparing spawn area: 0%
+[22:38:35] [Server thread/INFO]: Preparing spawn area: 0%
+[22:38:35] [Server thread/INFO]: Preparing spawn area: 0%
+[22:38:35] [Server thread/INFO]: Preparing spawn area: 0%
+[22:38:35] [Server thread/INFO]: Preparing spawn area: 0%
+[22:38:35] [Server thread/INFO]: Preparing spawn area: 0%
+[22:38:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:38:38] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[22:38:38] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[22:38:38] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:38:38] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[22:38:38] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[22:38:39] [Server thread/INFO]: Preparing spawn area: 54%
+[22:38:39] [Server thread/INFO]: Time elapsed: 7227 ms
+[22:38:39] [Server thread/INFO]: Done (10.590s)! For help, type "help"
+[22:38:49] [User Authenticator #1/INFO]: UUID of player Max80well80 is 50933a6d-2685-4dd2-8500-eb77edd1ec32
+[22:38:49] [Server thread/INFO]: Max80well80[/192.168.1.103:61631] logged in with entity id 346 at (13.292705589873298, 76.0, -60.531933361158146)
+[22:38:49] [Server thread/INFO]: Max80well80 joined the game
+[23:08:46] [Server thread/WARN]: Roach moved wrongly!
+[23:25:06] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/8863, l='world', x=-2.00, y=78.00, z=-56.82]
+[23:25:20] [Server thread/INFO]: Max80well80 lost connection: Disconnected
+[23:25:20] [Server thread/INFO]: Max80well80 left the game
+[23:25:25] [Server thread/INFO]: Stopping the server
+[23:25:25] [Server thread/INFO]: Stopping server
+[23:25:25] [Server thread/INFO]: Saving players
+[23:25:25] [Server thread/INFO]: Saving worlds
+[23:25:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:25:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:25:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:25:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:25:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:25:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:25:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:25:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:25:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
